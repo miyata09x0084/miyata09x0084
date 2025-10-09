@@ -1,4 +1,4 @@
-## Hi there 👋
+## Make something people want.
 
 <!--
 **miyata09x0084/miyata09x0084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
