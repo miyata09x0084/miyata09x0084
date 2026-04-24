@@ -7,9 +7,8 @@ across the full stack — mainly with **TypeScript, React / Next.js, and
 Node.js**. I'm comfortable moving between layers: extending multi-condition
 SQL queries on the backend one day, cutting unnecessary re-renders or
 tuning cache strategy on the frontend the next. My strength is keeping
-the whole stack in view while I design and improve.
-
-When I'm not coding, I'm cooking or out on a run.
+the whole stack in view while I design and improve.When I'm not coding, 
+I'm cooking or out on a run.
 
 ## Profiles
 
