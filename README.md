@@ -1,16 +1,24 @@
-## Make something people want.
+# Ryo Miyata
 
-<!--
-**miyata09x0084/miyata09x0084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+I pivoted from automotive engineering into software, and now build web apps
+across the full stack — mainly with **TypeScript, React / Next.js, and
+Node.js**. I'm comfortable moving between layers: extending multi-condition
+SQL queries on the backend one day, cutting unnecessary re-renders or
+tuning cache strategy on the frontend the next. My strength is keeping
+the whole stack in view while I design and improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profiles
+
+| Platform | Link |
+|----------|------|
+| Email    | [miyata09x0084@gmail.com](mailto:miyata09x0084@gmail.com) |
+| Findy    | [View profile](https://findy-code.io/skills-share/MpcU_jZGBwI0C) |
+| LAPRAS   | [View profile](https://lapras.com/public/ZK9FOFZ) |
+
+## Project
+
+| Project | Description |
+|---------|-------------|
+| [kohAI](https://github.com/miyata09x0084/kohAI) | A personal AI assistant workspace integrating scheduling, research, writing, and long-term memory into a single Claude Code-based setup. |
