@@ -1,4 +1,4 @@
-# Ryo Miyata
+# Ryo (Rio) Miyata
 
 ## About
 
