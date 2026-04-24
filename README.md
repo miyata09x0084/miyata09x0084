@@ -1,4 +1,4 @@
-# Ryo (Rio) Miyata
+# Ryo (Rio)
 
 ## About
 
