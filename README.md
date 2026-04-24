@@ -19,8 +19,9 @@ When I'm not coding, I'm cooking or out on a run.
 | Findy    | [View profile](https://findy-code.io/skills-share/MpcU_jZGBwI0C) |
 | LAPRAS   | [View profile](https://lapras.com/public/ZK9FOFZ) |
 
-## Project
+## Projects
 
 | Project | Description |
 |---------|-------------|
 | [kohAI](https://github.com/miyata09x0084/kohAI) | A personal AI assistant workspace integrating scheduling, research, writing, and long-term memory into a single Claude Code-based setup. |
+| [kangeki_sbt](https://github.com/miyata09x0084/kangeki_sbt) | A Polygon-based mint dApp for non-transferable NFTs (SBTs), usable as event badges, memberships, or certificates. |
