@@ -23,5 +23,5 @@ When I'm not coding, I'm cooking or out on a run.
 
 | Project | Description |
 |---------|-------------|
-| [daily-coworker](https://github.com/miyata09x0084/daily-coworker) | A personal AI assistant workspace integrating scheduling, research, writing, and long-term memory into a single Claude Code-based setup. |
+| [daily‑coworker](https://github.com/miyata09x0084/daily-coworker) | A personal AI assistant workspace integrating scheduling, research, writing, and long-term memory into a single Claude Code-based setup. |
 | [kangeki_sbt](https://github.com/miyata09x0084/kangeki_sbt) | A Polygon-based mint dApp for non-transferable NFTs (SBTs), usable as event badges, memberships, or certificates. |
