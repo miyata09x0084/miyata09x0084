@@ -14,6 +14,7 @@ I'm cooking or out on a run.
 | Platform | Link |
 |----------|------|
 | Email    | [miyata09x0084@gmail.com](mailto:miyata09x0084@gmail.com) |
+| Website  | [meercaton.life](https://www.meercaton.life/) |
 | Findy    | [View profile](https://findy-code.io/skills-share/MpcU_jZGBwI0C) |
 | LAPRAS   | [View profile](https://lapras.com/public/ZK9FOFZ) |
 
