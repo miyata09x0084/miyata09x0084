@@ -2,9 +2,9 @@
 
 ## About
 
-I pivoted from automotive engineering into software, and now build web apps
-across the full stack — mainly with TypeScript. When I'm not coding, 
-I'm cooking or out on a run.
+Hi, I`m Full Stack Developer based in japan. Call me Rio!
+I was born and raised in japan. I like listening to music and relaxing in hot springs.
+
 
 ## Profiles
 
