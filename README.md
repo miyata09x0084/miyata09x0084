@@ -14,6 +14,10 @@ If we share similar interests, whether in technology or hobbies, feel free to re
 
 ## Projects
 
+### [llm-wiki-public](https://github.com/miyata09x0084/llm-wiki-public)
+
+A personal knowledge base based on Karpathy's LLM Wiki pattern. It uses Claude Code and Obsidian to turn source materials into structured, interconnected wiki pages that grow over time.
+
 ### [daily-coworker](https://github.com/miyata09x0084/daily-coworker)
 
 A personal AI assistant workspace that brings scheduling, research, writing, and long-term memory together in a single Claude Code-based environment.
