@@ -5,12 +5,10 @@ Full-stack developer based in Japan, interested in building practical web produc
 ## About Me
 
 I'm a full-stack developer based in Japan. I mainly work with TypeScript across both frontend and backend development.
-
 Outside of coding, I enjoy cooking, strength training, and sento (Japanese public bathhouses). Recently, I've been especially into Iekei ramen.
 
 日本を拠点に活動しているフルスタックエンジニアです。TypeScriptを中心に、フロントエンド・バックエンドの両方を扱っています。
-
-趣味は料理、筋トレ、銭湯です。最近は家系ラーメンにハマっています。
+趣味は料理、筋トレ、銭湯です。最近は家系ラーメンにハマっています!!
 
 ## Tech Stack
 
