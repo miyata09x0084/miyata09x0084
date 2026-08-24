@@ -5,7 +5,7 @@
 I'm a full-stack developer based in Japan. I mainly work with TypeScript across both frontend and backend development, and I also enjoy experimenting with generative AI and agent-based workflows.
 Outside of coding, I like listening to music and relaxing in hot springs. Recently, I've been especially into strength training and exploring ramen shops.
 
-日本を拠点に活動しているフルスタックエンジニアです。TypeScriptを中心に、フロントエンド・バックエンドの両方を扱っています。最近は、生成AIやAIエージェントを活用したアプリケーション開発にも取り組んでいます。
+日本を拠点に活動しているフルスタックエンジニアです。TypeScriptを中心に、フロントエンド・バックエンドの両方を扱っています。
 趣味は音楽を聴くことと温泉でゆっくりすることです。最近は筋トレと家系ラーメンにハマっています。
 
 
