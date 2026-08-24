@@ -12,14 +12,6 @@ If we share similar interests—whether in technology, cooking, strength trainin
 趣味は料理、筋トレ、銭湯です。最近は家系ラーメンにハマっています！
 技術や趣味など、何か共通点があれば、ぜひ気軽に交流してください！
 
-## Tech Stack
-
-- **Languages:** TypeScript, Python, Ruby
-- **Frontend:** React, Next.js
-- **Backend:** NestJS, FastAPI, Django, Ruby on Rails
-- **AI / LLM:** LangGraph, LangChain
-- **Database:** PostgreSQL, MySQL
-
 ## Projects
 
 ### [daily-coworker](https://github.com/miyata09x0084/daily-coworker)
