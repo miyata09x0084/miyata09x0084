@@ -1,6 +1,8 @@
 # Hi, I'm Ryo (Rio) 👋
 
-Full-stack developer based in Japan, interested in building practical web products.
+I'm a full-stack developer based in Japan. I mainly work with TypeScript across both frontend and backend development. I also go by Rio, so feel free to call me Rio!
+
+はじめまして!!日本を拠点に活動しているフルスタックエンジニアです。TypeScriptを中心に、フロントエンド・バックエンドの両方を扱っています
 
 ## About Me
 
