@@ -9,7 +9,7 @@ I'm a full-stack developer based in Japan, mainly working with TypeScript across
 Outside of coding, I enjoy cooking, strength training, and sento (Japanese public bathhouses). Recently, I've been especially into Iekei ramen.
 If we share similar interests, whether in technology or hobbies, feel free to reach out. I'd be happy to connect!
 
-趣味は料理、筋トレ、銭湯です。最近は家系ラーメンにハマっています！
+趣味は料理、筋トレ、銭湯です。最近は家系ラーメンの奥深さにハマっています！
 技術や趣味など、何か共通点があれば、ぜひ気軽に交流してください！
 
 ## Projects
