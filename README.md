@@ -2,15 +2,37 @@
 
 I'm a full-stack developer based in Japan, mainly working with TypeScript across frontend and backend development. I also go by Rio, so feel free to call me Rio!
 
+I don't have strong opinions about tech stacks. I do have strong opinions about ramen.
+
 はじめまして！日本を拠点に活動しているフルスタックエンジニアのリョウです。TypeScriptを中心に、フロントエンドとバックエンドの両方を扱っています。
+
+技術スタックへのこだわりは薄めです。ラーメンへのこだわりは濃いめです。
 
 ## About Me
 
 Outside of coding, I enjoy cooking, strength training, and sento (Japanese public bathhouses). Recently, I've been especially into Iekei ramen.
+
+These days, while AI writes the code, I go to the sento. Strength training is the one thing I still have to do myself.
+
 If we share similar interests, whether in technology or hobbies, feel free to reach out. I'd be happy to connect!
 
 趣味は料理、筋トレ、銭湯です。最近は家系ラーメンの奥深さにハマっています！
+
+最近はAIにコードを書かせている間に銭湯へ行っています。筋トレだけは、まだ自分でやるしかないようです。
+
 技術や趣味など、何か共通点があれば、ぜひ気軽に交流してください！
+
+## How I roll
+
+- Try first, judge later. If it doesn't fit, I just go back.
+- The less I know about something, the more fun it looks.
+- If you invite me to something, I'll probably say yes.
+
+<!-- -->
+
+- まず試して、合わなければ戻る。
+- 知らない領域ほど、面白そうに見える。
+- 誘われたら、だいたい乗る。
 
 ## Projects
 
