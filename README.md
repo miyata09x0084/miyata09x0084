@@ -1,4 +1,4 @@
-# Hi, I'm Ryo 👋
+# Hi, I'm Ryo 🐈
 
 I'm a full-stack developer based in Japan, mainly working with TypeScript across frontend and backend development. I also go by Rio, so feel free to call me Rio!
 
