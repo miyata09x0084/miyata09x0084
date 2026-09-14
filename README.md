@@ -12,13 +12,13 @@ I don't have strong opinions about tech stacks. I do have strong opinions about 
 
 Outside of coding, I enjoy cooking, strength training, and sento (Japanese public bathhouses). Recently, I've been especially into Iekei ramen.
 
-These days, while AI writes the code, I go to the sento. Strength training is the one thing I still have to do myself.
+While AI writes the code, I go to the sento. Strength training is the one thing I still have to do myself.
 
 If we share similar interests, whether in technology or hobbies, feel free to reach out. I'd be happy to connect!
 
 趣味は料理、筋トレ、銭湯です。最近は家系ラーメンの奥深さにハマっています！
 
-最近はAIにコードを書かせている間に銭湯へ行っています。筋トレだけは、まだ自分でやるしかないようです。
+AIにコードを書かせている間は、銭湯へ行っています。筋トレだけは、まだ自分でやるしかないようです。
 
 技術や趣味など、何か共通点があれば、ぜひ気軽に交流してください！
 
