@@ -22,18 +22,6 @@ AIにコードを書かせている間は、銭湯へ行っています。筋ト
 
 技術や趣味など、何か共通点があれば、ぜひ気軽に交流してください！
 
-## How I roll
-
-- Try first, judge later. If it doesn't fit, I just go back.
-- The less I know about something, the more fun it looks.
-- If you invite me to something, I'll probably say yes.
-
-<!-- -->
-
-- まず試して、合わなければ戻る。
-- 知らない領域ほど、面白そうに見える。
-- 誘われたら、だいたい乗る。
-
 ## Projects
 
 ### [llm-wiki-public](https://github.com/miyata09x0084/llm-wiki-public)
