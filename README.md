@@ -49,5 +49,3 @@ A Polygon-based minting dApp for non-transferable NFTs (SBTs), designed for use 
 | Platform | Link |
 | --- | --- |
 | Email | [miyata09x0084@gmail.com](mailto:miyata09x0084@gmail.com) |
-| Findy | [View profile](https://findy-code.io/skills-share/MpcU_jZGBwI0C) |
-| LAPRAS | [View profile](https://lapras.com/public/ZK9FOFZ) |
