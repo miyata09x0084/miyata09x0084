@@ -1,28 +1,53 @@
-# Ryo (Rio)
+# Hi, I'm Ryo 🐈
 
-## About
+I'm a full-stack developer based in Japan, mainly working with TypeScript across frontend and backend development. I also go by Rio, so feel free to call me Rio!
 
-I pivoted from automotive engineering into software, and now build web apps
-across the full stack — mainly with TypeScript. I'm comfortable moving between layers: extending multi-condition
-SQL queries on the backend one day, cutting unnecessary re-renders or
-tuning cache strategy on the frontend the next. My strength is keeping
-the whole stack in view while I design and improve.When I'm not coding, 
-I'm cooking or out on a run.
+I don't have strong opinions about tech stacks. I do have strong opinions about ramen.
+
+はじめまして！日本を拠点に活動しているフルスタックエンジニアのリョウです。TypeScriptを中心に、フロントエンドとバックエンドの両方を扱っています。
+
+技術スタックへのこだわりは薄めです。ラーメンへのこだわりは濃いめです。
+
+## About Me
+
+Outside of coding, I enjoy cooking, strength training, and sento (Japanese public bathhouses). Recently, I've been especially into Iekei ramen.
+
+While AI writes the code, I go to the sento. Strength training is the one thing I still have to do myself.
+
+If we share similar interests, whether in technology or hobbies, feel free to reach out. I'd be happy to connect!
+
+趣味は料理、筋トレ、銭湯です。最近は家系ラーメンの奥深さにハマっています！
+
+AIにコードを書かせている間は、銭湯へ行っています。筋トレだけは、まだ自分でやるしかないようです。
+
+技術や趣味など、何か共通点があれば、ぜひ気軽に交流してください！
+
+## Projects
+
+### [ai-driven-development-methodology](https://github.com/miyata09x0084/ai-driven-development-methodology)
+
+A methodology for AI-driven development in small teams. It separates human judgment from AI implementation, and keeps quality through guardrails and multi-stage review.
+
+### [llm-wiki-public](https://github.com/miyata09x0084/llm-wiki-public)
+
+A personal knowledge base based on Karpathy's LLM Wiki pattern. It uses Claude Code and Obsidian to turn source materials into structured, interconnected wiki pages that grow over time.
+
+### [daily-coworker](https://github.com/miyata09x0084/daily-coworker)
+
+A personal AI assistant workspace that brings scheduling, research, writing, and long-term memory together in a single Claude Code-based environment.
+
+### [learnify](https://github.com/miyata09x0084/learnify)
+
+A proof of concept for bringing LangGraph workflows to end users. It turns PDFs into slides and narrated videos through a web application with authentication, streaming, and asynchronous jobs.
+
+### [kangeki_sbt](https://github.com/miyata09x0084/kangeki_sbt)
+
+A Polygon-based minting dApp for non-transferable NFTs (SBTs), designed for use as event badges, memberships, and certificates.
 
 ## Profiles
 
 | Platform | Link |
-|----------|------|
-| Email    | [miyata09x0084@gmail.com](mailto:miyata09x0084@gmail.com) |
-| Website  | [meercaton.life](https://www.meercaton.life/) |
-| Findy    | [View profile](https://findy-code.io/skills-share/MpcU_jZGBwI0C) |
-| LAPRAS   | [View profile](https://lapras.com/public/ZK9FOFZ) |
-
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| [ai-driven-development-methodology](https://github.com/miyata09x0084/ai-driven-development-methodology) | A methodology for AI-driven development in small teams — separate human judgment from AI implementation, and keep quality through guardrails and multi-stage review. |
-| [daily‑coworker](https://github.com/miyata09x0084/daily-coworker) | A personal AI assistant workspace integrating scheduling, research, writing, and long-term memory into a single Claude Code-based setup. |
-| [learnify](https://github.com/miyata09x0084/learnify) | A proof-of-concept on putting LangGraph in end users' hands — a multimodal PDF→slides→narrated-video workflow wrapped in a real web app with auth, streaming, and async jobs. |
-| [kangeki_sbt](https://github.com/miyata09x0084/kangeki_sbt) | A Polygon-based mint dApp for non-transferable NFTs (SBTs), usable as event badges, memberships, or certificates. |
+| --- | --- |
+| Email | [miyata09x0084@gmail.com](mailto:miyata09x0084@gmail.com) |
+| Findy | [View profile](https://findy-code.io/skills-share/MpcU_jZGBwI0C) |
+| LAPRAS | [View profile](https://lapras.com/public/ZK9FOFZ) |
