@@ -24,6 +24,10 @@ AIにコードを書かせている間は、銭湯へ行っています。筋ト
 
 ## Projects
 
+### [ai-driven-development-methodology](https://github.com/miyata09x0084/ai-driven-development-methodology)
+
+A methodology for AI-driven development in small teams. It separates human judgment from AI implementation, and keeps quality through guardrails and multi-stage review.
+
 ### [llm-wiki-public](https://github.com/miyata09x0084/llm-wiki-public)
 
 A personal knowledge base based on Karpathy's LLM Wiki pattern. It uses Claude Code and Obsidian to turn source materials into structured, interconnected wiki pages that grow over time.
