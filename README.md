@@ -24,7 +24,7 @@ AIにコードを書かせている間は、銭湯へ行っています。筋ト
 
 ## Projects
 
-### [iekei-keizu](https://github.com/miyata09x0084/iekei-keizu) — [Live site](https://iekei-keizu.vercel.app)
+### [iekei-keizu](https://github.com/miyata09x0084/iekei-keizu)（[Live site](https://iekei-keizu.vercel.app)）
 
 An interactive family tree of Iekei ramen shops in the Kanto area, tracing 27 shops across 6 generations of apprenticeship from the original Yoshimuraya. Built with Next.js and D3, in Japanese.
 
