@@ -24,6 +24,12 @@ AIにコードを書かせている間は、銭湯へ行っています。筋ト
 
 ## Projects
 
+### [iekei-keizu](https://github.com/miyata09x0084/iekei-keizu) — [Live site](https://iekei-keizu.vercel.app)
+
+An interactive family tree of Iekei ramen shops in the Kanto area, tracing 27 shops across 6 generations of apprenticeship from the original Yoshimuraya. Built with Next.js and D3, in Japanese.
+
+関東の家系ラーメン27店・6世代の修行系譜を、縦書き屋号の系図で辿れる Web アプリ。屋号を押すと店の詳細と Google マップが開きます。
+
 ### [ai-driven-development-methodology](https://github.com/miyata09x0084/ai-driven-development-methodology)
 
 A methodology for AI-driven development in small teams. It separates human judgment from AI implementation, and keeps quality through guardrails and multi-stage review.
