@@ -14,7 +14,7 @@ Next.js / D3 / TypeScript
 
 ### [kangeki_sbt](https://github.com/miyata09x0084/kangeki_sbt)
 
-ブラウザから NFT を発行して、持ち主が譲渡不可（SBT）に切り替えられる Polygon の dApp です。イベントの参加証や会員証など、「譲れない」ことに意味がある場面を想定しています。コントラクトは Polygon メインネットで動いています。
+お金に紐づかない感謝の気持ちを、社会的な価値に転換する「感謝の印」NFT です。スマートコントラクト上で譲渡不能な NFT（SBT）を発行する仕組みで、お金のために売買できないので、純粋な価値交換になります。Web3 で新しい社会価値を生む仕組みが作れないか、試したものです。
 
 Solidity / React / MetaMask
 
