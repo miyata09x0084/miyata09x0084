@@ -26,7 +26,7 @@ TypeScript / React / Hono / Cloudflare Workers / Claude API
 
 ## 仕事のすすめ方
 
-- いきなり作り始めず、選択肢を提案して、丁寧に認識をすり合わせてから進めます。
+- いきなり作り始めず、進め方を提案して、丁寧に認識をすり合わせてから進めます。
 - 連絡は Slack でも Discord でも、Notion や Figma でも。普段お使いのものに合わせます。
 
 ## ふだん考えていること
