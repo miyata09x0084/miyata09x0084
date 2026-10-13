@@ -1,6 +1,6 @@
 # Ryo Miyata
 
-Hi, I'm Ryo, a web developer in Aichi, Japan. Japanese below.
+Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 愛知県で Web アプリを作っています。TypeScript でフロントエンドからバックエンドまで一通り書きます。いまは、AI を組み込んだ業務ツールを個人で作っています。2020年から GitHub にコードを置いています。
 
