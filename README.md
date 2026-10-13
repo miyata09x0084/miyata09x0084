@@ -35,7 +35,7 @@ TypeScript / React / Hono / Cloudflare Workers / Claude API
 
 ## 連絡先
 
-お気軽にどうぞ。
+ここまで読んでいただき、ありがとうございます。ご相談でも、ちょっとした雑談でも、お気軽にどうぞ。
 
 | Platform | Link |
 | --- | --- |
