@@ -1,4 +1,4 @@
-# Ryo Miyata
+# Ryo Miyata 🐈
 
 Hi, I'm Ryo, a web developer in Aichi, Japan.
 
