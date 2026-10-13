@@ -8,7 +8,7 @@ Hi, I'm Ryo, a web developer in Aichi, Japan. Japanese below.
 
 ### [iekei-ramen-family-tree](https://github.com/miyata09x0084/iekei-ramen-family-tree)（[Live site](https://iekei-ramen-family-tree.vercel.app)）
 
-ラーメン店の師弟関係を系図にした Web アプリです。27店・6世代を縦書きの系図でたどれて、店名を押すと詳細と Google マップが開きます。
+ラーメン店の師弟関係を、出典つきでたどれる Web アプリです。いまは 28店・7世代の系図を眺められる版が動いていて、「食べた店から次の一杯を理由つきで提案する」サービス「ツギイエ」へ作り替えているところです。
 
 Next.js / D3 / TypeScript
 
