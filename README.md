@@ -25,7 +25,7 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 `Solidity` `React` `MetaMask`
 
-### 物販の出品準備ツール
+### 物販の出品準備ツール (Private開発中)
 
 **写真を1枚撮ると、撮影リスト・説明文・価格案を AI が出してくれます。**
 
