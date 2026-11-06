@@ -9,7 +9,7 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 ## 作ったもの
 
-### [iekei-ramen-family-tree](https://github.com/miyata09x0084/iekei-ramen-family-tree)（[Live site](https://iekei-ramen-family-tree.vercel.app)）
+- ### [iekei-ramen-family-tree](https://github.com/miyata09x0084/iekei-ramen-family-tree)（[Live site](https://iekei-ramen-family-tree.vercel.app)）
 
 **ラーメン店の師弟関係を、出典つきでたどれる Web アプリです。**
 
@@ -17,7 +17,7 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 `Next.js` `D3` `TypeScript`
 
-### [kangeki_sbt](https://github.com/miyata09x0084/kangeki_sbt)
+- ### [kangeki_sbt](https://github.com/miyata09x0084/kangeki_sbt)
 
 **お金に紐づかない感謝の気持ちを、社会的な価値に転換する「感謝の印」NFT です。**
 
@@ -25,7 +25,7 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 `Solidity` `React` `MetaMask`
 
-### 物販の出品準備ツール (Private開発中)
+- ### 物販の出品準備ツール (Private開発中)
 
 **写真を1枚撮ると、撮影リスト・説明文・価格案を AI が出してくれます。**
 
@@ -42,7 +42,7 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 ## 連絡先
 
-ここまで読んでいただき、ありがとうございます。ご相談でも、ちょっとした雑談でも、お気軽にどうぞ!!!
+ここまで読んでいただき、ありがとうございます!!!
 
 | Platform | Link |
 | --- | --- |
