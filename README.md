@@ -42,8 +42,8 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 ## 連絡先
 
-ここまで読んでいただき、ありがとうございます!!!
-
 | Platform | Link |
 | --- | --- |
 | Email | [miyata09x0084@gmail.com](mailto:miyata09x0084@gmail.com) |
+
+ここまで読んでいただき、ありがとうございます!!!
