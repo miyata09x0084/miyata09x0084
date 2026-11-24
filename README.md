@@ -33,11 +33,6 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 ほかに作ったものは [リポジトリ一覧](https://github.com/miyata09x0084?tab=repositories) にあります。
 
-## 仕事のすすめ方
-
-- いきなり作り始めず、進め方を提案して、丁寧に認識をすり合わせてから進めます。
-- 連絡は Slack でも Discord でも、Notion や Figma でも。普段お使いのものに合わせます。
-
 ## 連絡先
 
 | Platform | Link |
