@@ -33,10 +33,8 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 ほかに作ったものは [リポジトリ一覧](https://github.com/miyata09x0084?tab=repositories) にあります。
 
-## /連絡先
+## /連絡
 
 | Platform | Link |
 | --- | --- |
 | Email | [miyata09x0084@gmail.com](mailto:miyata09x0084@gmail.com) |
-
-ここまで読んでいただき、ありがとうございます!!!
