@@ -5,7 +5,7 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 愛知県で Web アプリを作っています。TypeScript でフロントエンドからバックエンドまで一通り書きます。
 いまは、AI を組み込んだ業務ツールを個人で作っています。2020年から GitHub にコードを置いています。
 
-## 作ったもの
+## /Works
 
 - ### [iekei-ramen-family-tree](https://github.com/miyata09x0084/iekei-ramen-family-tree)（[Live site](https://iekei-ramen-family-tree.vercel.app)）
 
@@ -33,7 +33,7 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 ほかに作ったものは [リポジトリ一覧](https://github.com/miyata09x0084?tab=repositories) にあります。
 
-## 連絡先
+## /連絡先
 
 | Platform | Link |
 | --- | --- |
