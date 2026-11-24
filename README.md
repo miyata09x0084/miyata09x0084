@@ -1,10 +1,10 @@
-# Ryo Miyata 🐈
+# Ryo Miyata
 
 Hi, I'm Ryo(Call me Rio), a web developer in Aichi, Japan.
 
 初めまして!!! リョウと言います。
-2020年に初めてHTMLを触り、これまでの言語経験の流れは Ruby → Python → TypeScript で、動的型付け言語から静的型付け言語です。
-趣味はアウトドア、温泉、音楽鑑賞です。
+2020年に初めてHTMLを触り、これまでの言語経験は Ruby → Python → TypeScript で、動的型付け言語から静的型付け言語という流れです。
+趣味はアウトドア・温泉・音楽鑑賞です。
 
 ## /Works
 
