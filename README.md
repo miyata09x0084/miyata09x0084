@@ -2,8 +2,9 @@
 
 Hi, I'm Ryo(Call me Rio), a web developer in Aichi, Japan.
 
-愛知県で Web アプリを作っています。TypeScript でフロントエンドからバックエンドまで一通り書きます。
-いまは、AI を組み込んだ業務ツールを個人で作っています。2020年から GitHub にコードを置いています。
+初めまして!!! リョウと言います。
+2020年に初めてHTMLを触り、これまでの言語経験の流れは Ruby → Python → TypeScript で、動的型付け言語から静的型付け言語です。
+趣味はアウトドア、温泉、音楽鑑賞です。
 
 ## /Works
 
