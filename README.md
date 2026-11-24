@@ -30,8 +30,6 @@ Hi, I'm Ryo(Call me Rio), a web developer in Aichi, Japan.
 
 出品を早く済ませつつ、商品の魅力もきちんと伝えるのが狙いです。
 
-`TypeScript` `React` `Hono` `Cloudflare Workers` `Claude API`
-
 ※ ほかに作ったものは [リポジトリ一覧](https://github.com/miyata09x0084?tab=repositories) にあります。
 
 ## /連絡
