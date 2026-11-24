@@ -31,7 +31,7 @@ Hi, I'm Ryo, a web developer in Aichi, Japan.
 
 `TypeScript` `React` `Hono` `Cloudflare Workers` `Claude API`
 
-ほかに作ったものは [リポジトリ一覧](https://github.com/miyata09x0084?tab=repositories) にあります。
+※ ほかに作ったものは [リポジトリ一覧](https://github.com/miyata09x0084?tab=repositories) にあります。
 
 ## /連絡
 
